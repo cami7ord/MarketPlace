@@ -1,0 +1,8 @@
+dj-database-url==0.4.2
+gunicorn==19.6.0
+Django==1.9.1
+django-bootstrap3==9.0.0
+olefile==0.44
+Pillow==4.2.1
+psycopg2==2.7.3
+whitenoise==3.3.0
